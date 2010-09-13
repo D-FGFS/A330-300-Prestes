@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <path>cockpit.ac</path>
+
+  <animation>
+    <!-- Objets opaques
+    <object-name>Cockpit</object-name>
+    <object-name>Cockpit.025</object-name>
+    <object-name>Cockpit.004</object-name>
+    <object-name>Cockpit.022</object-name>
+    <object-name>Cockpit.023</object-name>
+    <object-name>Cockpit.002</object-name>
+    <object-name>Cockpit.013</object-name>
+    <object-name>Cockpit.021</object-name>
+    <object-name>Cockpit.019</object-name>
+    <object-name>Cockpit.028</object-name>
+    <object-name>Cockpit.027</object-name>
+    <object-name>Cockpit.016</object-name>
+    <object-name>Cockpit.003</object-name>
+    <object-name>Plane</object-name>
+    <object-name>Plane.003</object-name>
+    <object-name>Cockpit.012</object-name>
+    <object-name>Cockpit.018</object-name>
+ -->
+    <!-- Objets transparents -->
+    <object-name>WINDSHIELD</object-name>
+  </animation>
+
+  <animation>
+    <type>shader</type>
+    <shader>chrome</shader>
+    <texture>Horizonte.png</texture>
+    <object-name>WINDSHIELD</object-name>
+  </animation>
+
+  <animation>
+    <type>noshadow</type>
+    <object-name>WINDSHIELD</object-name>
+  </animation>
+
+  <!-- Os Instrumentos -->
+  
+  <!--
+  <model>
+    <path>Aircraft/707-400/Models/Interior/seats/all-seats.xml</path>
+    <offsets>
+      <x-m> 0 </x-m>
+      <y-m> 0 </y-m>
+      <z-m> 3.0 </z-m>
+      <roll-deg>    0 </roll-deg>
+      <pitch-deg>   0 </pitch-deg>
+      <heading-deg> 0 </heading-deg>
+    </offsets>
+  </model>
+	-->
+ 
+ <model>
+  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-pfd-jw.xml</path>
+  <offsets>
+   <x-m>-30.3184</x-m>
+   <y-m>-0.59</y-m>
+   <z-m>6.00737</z-m>
+   <pitch-deg>-15.0</pitch-deg>
+  </offsets>
+ </model>
+
+ <model>
+  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-enav-jw.xml</path>
+  <offsets>
+   <x-m>-30.3184</x-m>
+   <y-m>-0.36</y-m>
+   <z-m>6.00737</z-m>
+   <pitch-deg>-15.0</pitch-deg>
+  </offsets>
+ </model>
+
+ <model>
+  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-enav-jw.xml</path>
+  <offsets>
+   <x-m>-30.3184</x-m>
+   <y-m>+0.36</y-m>
+   <z-m>6.00737</z-m>
+   <pitch-deg>-15.0</pitch-deg>
+  </offsets>
+ </model>
+ 
+ <model>
+  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-pfd-jw.xml</path>
+  <offsets>
+   <x-m>-30.3184</x-m>
+   <y-m>+0.59</y-m>
+   <z-m>6.00737</z-m>
+   <pitch-deg>-15.0</pitch-deg>
+  </offsets>
+ </model>
+
+ <model>
+  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-ai-jw.xml</path>
+  <offsets>
+   <x-m>-30.3014</x-m>
+   <y-m>-0.11</y-m>
+   <z-m>5.95737</z-m>
+   <pitch-deg>-15.0</pitch-deg>
+  </offsets>
+ </model>
+
+ <model>
+  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-asi-jw.xml</path>
+  <offsets>
+   <x-m>-30.3334</x-m>
+   <y-m>-0.19</y-m>
+   <z-m>6.05737</z-m>
+   <pitch-deg>-15.0</pitch-deg>
+  </offsets>
+ </model>
+
+ <model>
+  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-alt-jw.xml</path>
+  <offsets>
+   <x-m>-30.3334</x-m>
+   <y-m>-0.09</y-m>
+   <z-m>6.05737</z-m>
+   <pitch-deg>-15.0</pitch-deg>
+  </offsets>
+ </model>
+
+ <model>
+  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-mcp-jw.xml</path>
+  <offsets>
+   <x-m>-29.9984</x-m>
+   <y-m>-0.015</y-m>
+   <z-m>6.28737</z-m>
+   <pitch-deg>-20.0</pitch-deg>
+  </offsets>
+ </model>
+
+ <model>
+  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-efisp-jw.xml</path>
+  <offsets>
+   <x-m> -30.0063</x-m>
+   <y-m>-0.28</y-m>
+   <z-m>6.27737</z-m>
+   <pitch-deg>-20.0</pitch-deg>
+  </offsets>
+ </model>
+
+<!-- HSI
+ <model>
+  <path>Aircraft/A330-300/Models/Cockpit/Instruments/HSI_Rod/HSI_Rod.xml</path>
+  <offsets>
+   <x-m>-30.0063</x-m>
+   <y-m>0</y-m>
+   <z-m>6.00737</z-m>
+   <pitch-deg>-15.0</pitch-deg>
+  </offsets>
+ </model>
+ -->
+
+<!-- ANIMATION-->
+<!-- Cockpit Controls -->
+ <animation>
+  <type>rotate</type>
+  <object-name>ThrottleLeft</object-name>
+  <property>controls/engines/engine[0]/throttle</property>
+  <factor>-55</factor>
+  <center>
+   <x-m>-16.771</x-m>
+   <y-m>0</y-m>
+   <z-m>-2.370</z-m>
+  </center>
+  <axis>
+   <x>0</x>
+   <y>1</y>
+   <z>0</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>rotate</type>
+  <object-name>ThrottleRight</object-name>
+  <property>controls/engines/engine[1]/throttle</property>
+  <factor>-55</factor>
+  <center>
+   <x-m>-16.771</x-m>
+   <y-m>0</y-m>
+   <z-m>-2.370</z-m>
+  </center>
+  <axis>
+   <x>0</x>
+   <y>1</y>
+   <z>0</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>translate</type>
+  <object-name>PedalLeft</object-name>
+  <property>controls/flight/rudder</property>
+  <factor>0.10</factor>
+  <axis>
+   <x>1.0</x>
+   <y>0.0</y>
+   <z>0.0</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>translate</type>
+  <object-name>PedalRight</object-name>
+  <property>controls/flight/rudder</property>
+  <factor>-0.10</factor>
+  <axis>
+   <x>1.0</x>
+   <y>0.0</y>
+   <z>0.0</z>
+  </axis>
+ </animation>
+
+ <!-- Left Stick -->
+ <animation>
+  <type>rotate</type>
+  <object-name>StickLeft</object-name>
+  <property>controls/flight/aileron</property>
+  <factor>25</factor>
+  <center>
+   <x-m>-16.801</x-m>
+   <y-m>-0.860</y-m>
+   <z-m>-2.215</z-m>
+  </center>
+  <axis>
+   <x>-1</x>
+   <y>0</y>
+   <z>0</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>rotate</type>
+  <object-name>StickLeft</object-name>
+  <property>controls/flight/elevator</property>
+  <factor>20</factor>
+  <center>
+   <x-m>-16.801</x-m>
+   <y-m>-0.860</y-m>
+   <z-m>-2.215</z-m>
+  </center>
+  <axis>
+   <x>0</x>
+   <y>-1</y>
+   <z>0</z>
+  </axis>
+ </animation>
+ 
+ <!-- Right Stick -->
+<animation>
+  <type>rotate</type>
+  <object-name>StickRight</object-name>
+  <property>controls/flight/aileron</property>
+  <factor>25</factor>
+  <center>
+   <x-m>-16.8215</x-m>
+   <y-m>-0.764103</y-m>
+   <z-m>-2.16173</z-m>
+  </center>
+  <axis>
+   <x>-1</x>
+   <y>0</y>
+   <z>0</z>
+  </axis>
+ </animation> 
+		
+ <animation>
+  <type>rotate</type>
+  <object-name>StickRight</object-name>
+  <property>controls/flight/elevator</property>
+  <factor>20</factor>
+  <center>
+   <x-m>-16.8215</x-m>
+   <y-m>-0.764103</y-m>
+   <z-m>-2.16173</z-m>
+  </center>
+  <axis>
+   <x>0</x>
+   <y>-1</y>
+   <z>0</z>
+  </axis>
+ </animation> 
+
+ <animation>
+  <type>rotate</type>
+  <object-name>GearLever.1</object-name>
+  <object-name>GearLever.2</object-name>
+  <object-name>GearLeverKnob.1</object-name>
+  <object-name>GearLeverKnob.2</object-name>
+  <property>controls/gear/gear-down</property>
+  <factor>60</factor>
+  <center>
+   <x-m>-30.3184</x-m>
+   <y-m>0.165</y-m>
+   <z-m>-2.122</z-m>
+  </center>
+  <axis>
+   <x>0</x>
+   <y>1</y>
+   <z>0</z>
+  </axis>
+ </animation>
+
+ <animation>
+  <type>rotate</type>
+  <object-name>FlapLever.1</object-name>
+  <object-name>FlapLever.2</object-name>
+  <object-name>FlapLever.3</object-name>
+  <property>controls/flight/flaps</property>
+  <factor>80</factor>
+  <center>
+   <x-m>-16.518</x-m>
+   <y-m>0.085</y-m>
+   <z-m>-2.401</z-m>
+  </center>
+  <axis>
+   <x>0</x>
+   <y>1</y>
+   <z>0</z>
+  </axis>
+ </animation>
+ 
+
+</PropertyList>
+

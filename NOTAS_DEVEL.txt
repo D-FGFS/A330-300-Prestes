@@ -1,0 +1,4 @@
+NOTAS :
+
+- Pendente o ajuste da quantidade de tanques. Informação aqui : http://www.pprune.org/archive/index.php/t-60185.html
+- Pendente capacidade de combustível e ajuste para o PW (A330-322)

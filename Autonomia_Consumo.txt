@@ -1,0 +1,346 @@
+TABELA DE CONSUMO
+=================
+
+Essa tabela de consumo é aproximada e desconsidera fatores climáticos e de vento. Funciona apenas para referência geral, não oferecendo grande rigor técnico.
+
+Condições de teste: 
+1 ) estabilizada altitude, velocidade, n1 e n2
+2 ) tanques abastecidos a 100%
+3 ) estabilidada altitude, velocidade, n1 e n2
+4 ) iniciada a aferição por um período de 30 min.
+
+
+A330-343 (Rolls Royce Trent 772B)
+=================================
+
+Altitude (ft)		Velocidade (mach)/(knt)		N1 (%)		GS			Autonomia (km)/(horas)
+28000				0.82	328					83.90		485		6961,4772	7,75030
+30000				0.82	314					84.20		487		7234,96961	8,06526
+34000				0.82	287					85.60		477		7483,87574	8,51763
+36000				0.82	274					86.70		475		7906,92383	9,03700
+39000				0.82	256					89.90		472		7610,05643	8,75299
+41000				0.82	243					90.00		463		7604,17748	8,91624
+
+OS Cálculos
+===========
+
++==========+
+| 28000 ft |
++==========+
+
+	*****************
+	*** Em 15 min ***
+	*****************
+
+		Aferido durante o teste:
+		
+		5633,5235 lbs de combustível / 15 min = 375,56823333333333333333333333333 lbs / min
+		
+		Capacidade total sobre o aferido:
+		
+		176246,3 lbs/ 375,56823333333333333333333333333 = 469,27904001820530259614608867794 min = 7,8213173336367550432691014779656 horas
+		
+		Ground Speed para Quilômetros Horários:
+		1842 km/h * 0.485 Knts = 898,22 Km/h
+		
+		Autonomia Estimada:
+		
+		7,8213173336367550432691014779656 * 898,22 = 7025,263655419206114903104 Km de autonomia
+
+	*****************
+	*** Em 30 min ***
+	*****************
+
+		Aferido durante o teste:
+		
+		175891,3298 lbs  - 164243,1064 lbs = 11648,2234 lbs
+		
+		11648,2234 lbs de combustível / 30,73333 min = 379,00947928519298104045347510341 lbs / min
+		
+		Capacidade total sobre o aferido:
+		
+		176246,3 lbs / 379,00947928519298104045347510341 lbs / min = 465,01818459105102676672076519038 min = 7,7503030765175171127786666666667 horas
+		
+		Ground Speed para Quilômetros Horários:
+		1842 km/h * 0.485 Knts = 898,22 Km/h
+		
+		Autonomia Estimada:
+		
+		7,7503030765175171127786666666667 * 898,22 = 6961,4772293895642210400539733333 Km de autonomia
+
+
++==========+
+| 30000 ft |
++==========+
+
+	*****************
+	*** Em 15 min ***
+	*****************
+
+		Aferido durante o teste:
+		
+		175905,6136 lbs  - 170442,4791 lbs = 5463,1345 lbs
+		
+		5463,1345 lbs de combustível / 15 min = 364,20896666666666666666666666667 lbs / min
+		
+		Capacidade total sobre o aferido:
+		
+		176246,3 lbs/ 364,20896666666666666666666666667 = 483,91532370285923627509968322798 min = 8,0652553950476539379183280537997 horas
+		
+		Ground Speed para Quilômetros Horários:
+		1842 km/h * 0,487 Knts = 897,054 Km/h
+		
+		Autonomia Estimada:
+		
+		8,0652553950476539379183280537997 * 897,054 = 7234,9696131490781556253878539735 Km de autonomia
+
+	*****************
+	*** Em 30 min ***
+	*****************
+
+		Aferido durante o teste:
+		
+		175905,6136 lbs  - 165045,383 lbs = 10860,2306 lbs
+		
+		10860,2306 lbs de combustível / 30 min = 362,00768666666666666666666666667 lbs / min
+		
+		Capacidade total sobre o aferido:
+		
+		176246,3 lbs/ 362,00768666666666666666666666667 = 486,85789415926353639498763565524 min = 8,1142982359877256065831272609206 horas
+		
+		Ground Speed para Quilômetros Horários:
+		1842 km/h * 0,487 Knts = 897,054 Km/h
+		
+		Autonomia Estimada:
+		
+		8,1142982359877256065831272609206 * 897,054 = 7278,9636897857332062878206419179 Km de autonomia
+
++==========+
+| 34000 ft |
++==========+
+
+	*****************
+	*** Em 15 min ***
+	*****************
+
+		Aferido durante o teste:
+		
+		175955,6104 lbs  - 170782,6226 lbs = 5172,9878 lbs
+		
+		5172,9878 lbs de combustível / 15 min = 344,86585333333333333333333333333 lbs / min
+		
+		Capacidade total sobre o aferido:
+		
+		176246,3 lbs/ 344,86585333333333333333333333333 = 511,05755555812494962539401129551 min = 8,5176259259687491604232335215919 horas
+		
+		Ground Speed para Quilômetros Horários:
+		1842 km/h * 0,477 Knts = 878,634 Km/h
+		
+		Autonomia Estimada:
+		
+		8,5176259259687491604232335215919 * 878,634 = 7483,87573783762594944744 Km de autonomia
+
+	*****************
+	*** Em 30 min ***
+	*****************
+
+		Aferido durante o teste:
+		
+		175955,6104 lbs  - 164969,852 lbs = 10985,7584 lbs
+		
+		10985,7584 lbs de combustível / 32 min = 343,30495 lbs / min
+		
+		Capacidade total sobre o aferido:
+		
+		176246,3 lbs/ 343,30495 = 513,38117903630576838463878834255 min = 8,5563529839384294730773131390425 horas
+		
+		Ground Speed para Quilômetros Horários:
+		1842 km/h * 0,477 Knts = 878,634 Km/h
+		
+		Autonomia Estimada:
+		
+		8,5563529839384294730773131390425 * 878,634 = 7517,9026476897580416478119526095 Km de autonomia
+
++==========+
+| 36000 ft |
++==========+
+
+	*****************
+	*** Em 15 min ***
+	*****************
+
+		Aferido durante o teste:
+		
+		176159,1956 lbs  - 171447,263 lbs = 4711,9326 lbs
+		
+		4711,9326 lbs de combustível / 15 min = 314,12884 lbs / min
+		
+		Capacidade total sobre o aferido:
+		
+		176246,3 lbs/ 314,12884 = 561,06373423083343764297477429962 min = 9,3510622371805572940495795716603 horas
+		
+		Ground Speed para Quilômetros Horários:
+		1842 km/h * 0,475 Knts = 874,95 Km/h
+		
+		Autonomia Estimada:
+		
+		9,3510622371805572940495795716603 * 874,95 = 8181,711904420641 Km de autonomia
+
+	*****************
+	*** Em 30 min ***
+	*****************
+
+		Aferido durante o teste:
+		
+		176159,1956 lbs  - 166407,8243 lbs = 9751,3713 lbs
+		
+		9751,3713 lbs de combustível / 30 min = 325,04571 lbs / min
+		
+		Capacidade total sobre o aferido:
+		
+		176246,3 lbs/ 325,04571 = 542,22004652822521484747483669297 min = 9,0370007754704202474579139448828 horas
+		
+		Ground Speed para Quilômetros Horários:
+		1842 km/h * 0,475 Knts = 874,95 Km/h
+		
+		Autonomia Estimada:
+		
+		9,0370007754704202474579139448828 * 874,95 = 7906,9238284978441955133018060752 Km de autonomia
+
++==========+
+| 39000 ft |
++==========+
+
+	*****************
+	*** Em 15 min ***
+	*****************
+
+		Aferido durante o teste:
+		
+		175972,0541 lbs  - 170938,1636 lbs = 5033,8905 lbs
+		
+		5033,8905 lbs de combustível / 15 min = 335,5927 lbs / min
+		
+		Capacidade total sobre o aferido:
+		
+		176246,3 lbs/ 335,5927 lbs/min = 525,17918297984431723336055879642 min = 8,7529863829974052872226759799404 horas
+		
+		Ground Speed para Quilômetros Horários:
+		1842 km/h * 0,472 Knts = 869,424 Km/h
+		
+		Autonomia Estimada:
+		
+		8,7529863829974052872226759799404 * 869,424 = 7610,0564330511314976 Km de autonomia
+
+	*****************
+	*** Em 30 min ***
+	*****************
+
+		Aferido durante o teste:
+		
+		175972,0541 lbs  - 165954,0958 lbs = 10017,9583 lbs
+		
+		10017,9583 lbs de combustível / 30 min = 333,93194333333333333333333333333 lbs / min
+		
+		Capacidade total sobre o aferido:
+		
+		176246,3 lbs/ 333,93194333333333333333333333333 = 527,79107695028037798884906429257 min = 8,7965179491713396331474844048761 horas
+		
+		Ground Speed para Quilômetros Horários:
+		1842 km/h * 0,472 Knts = 869,424 Km/h
+		
+		Autonomia Estimada:
+		
+		8,7965179491713396331474844048761 * 869,424 = 7647,9038214403427892096184812249 Km de autonomia
+
++==========+
+| 41000 ft |
++==========+
+
+	*****************
+	*** Em 15 min ***
+	*****************
+
+		Aferido durante o teste:
+		
+		175960,2452 lbs  - 171018,5223 lbs = 4941,7229 lbs
+		
+		4941,7229 lbs de combustível / 15 min = 329,44819333333333333333333333333 lbs / min
+		
+		Capacidade total sobre o aferido:
+		
+		176246,3 lbs/ 329,44819333333333333333333333333 = 534,97424956789867760493005384828 min = 8,9162374927983112934155008974713 horas
+		
+		Ground Speed para Quilômetros Horários:
+		1842 km/h * 0,463 Knts = 852,846 Km/h
+		
+		Autonomia Estimada:
+		
+		8,9162374927983112934155008974713 * 852,846 = 7604,17748078306749026 Km de autonomia
+
+	*****************
+	*** Em 30 min ***
+	*****************
+
+		Aferido durante o teste:
+		
+		175960,2452 lbs  - 166118,6517 lbs = 9841,5935 lbs
+		
+		9841,5935 lbs de combustível / 30 min = 328,05311666666666666666666666667 lbs / min
+		
+		Capacidade total sobre o aferido:
+		
+		176246,3 lbs/ 328,05311666666666666666666666667 lbs = 537,24927777193805047932527011512 min = 8,954154629532300841322087835252 horas
+		
+		Ground Speed para Quilômetros Horários:
+		1842 km/h * 0,463 Knts = 852,846 Km/h
+		
+		Autonomia Estimada:
+		
+		8,954154629532300841322087835252 * 852,846 = 7636,5149591781046433181773219433 Km de autonomia
+
++==========+
+| X0000 ft |
++==========+
+
+	*****************
+	*** Em 15 min ***
+	*****************
+
+		Aferido durante o teste:
+		
+		xxxxxxxxx lbs  - xxxxxxxxx lbs = xxxxxxxxx lbs
+		
+		xxxxxxxxx lbs de combustível / 15 min = xxxxxxxxx lbs / min
+		
+		Capacidade total sobre o aferido:
+		
+		176246,3 lbs/ xxxxxxxxx = xxxxxxxxx min = xxxxxxxxx horas
+		
+		Ground Speed para Quilômetros Horários:
+		1842 km/h * 0.xxxxxxxxx Knts = xxxxxxxxx Km/h
+		
+		Autonomia Estimada:
+		
+		xxxxxxxxx * xxxxxxxxx = xxxxxxxxx Km de autonomia
+
+	*****************
+	*** Em 30 min ***
+	*****************
+
+		Aferido durante o teste:
+		
+		xxxxxxxxx lbs  - xxxxxxxxx lbs = xxxxxxxxx lbs
+		
+		xxxxxxxxx lbs de combustível / 15 min = xxxxxxxxx lbs / min
+		
+		Capacidade total sobre o aferido:
+		
+		176246,3 lbs/ xxxxxxxxx = xxxxxxxxx min = xxxxxxxxx horas
+		
+		Ground Speed para Quilômetros Horários:
+		1842 km/h * 0.xxxxxxxxx Knts = xxxxxxxxx Km/h
+		
+		Autonomia Estimada:
+		
+		xxxxxxxxx * xxxxxxxxx = xxxxxxxxx Km de autonomia

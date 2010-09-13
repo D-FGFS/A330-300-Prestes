@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyList>
+
+ <path>hdi_rod.ac</path>
+
+ <animation>
+  <type>material</type>
+  <object-name>caixote</object-name>
+  <object-name>botao</object-name>
+  <emission>
+   <red>1.0</red>
+   <green>0.2</green>
+   <blue>0.0</blue>
+   <factor-prop>/sim/model/material/instruments/factor</factor-prop>
+  </emission>
+ </animation>
+
+<model>
+	<name>ADF</name>
+	<path>Aircraft/A330-300/Models/Cockpit/Instruments/HSI_Rod/adf/adf.xml</path>
+	<offsets>
+		<x-m>0.0015095</x-m>
+		<y-m> 0.0539613</y-m>
+		<z-m>-0.0365479</z-m>
+	</offsets>
+</model>
+
+<model>
+	<name>VOR</name>
+	<path>Aircraft/A330-300/Models/Cockpit/Instruments/HSI_Rod/vor/vor.xml</path>
+	<offsets>
+		<x-m>-0.000523241</x-m>
+		<y-m>-0.0443977</y-m>
+		<z-m>0.00375186</z-m>
+	</offsets>
+</model>
+
+<model>
+	<name>VOR</name>
+	<path>Aircraft/A330-300/Models/Cockpit/Instruments/HSI_Rod/vor/vor2.xml</path>
+	<offsets>
+		<x-m>-0.000523241</x-m>
+		<y-m>-0.0443977</y-m>
+		<z-m>0.00375186</z-m>
+	</offsets>
+</model>
+
+<model>
+	<name>ASI</name>
+	<path>Aircraft/A330-300/Models/Cockpit/Instruments/HSI_Rod/asi/asi.xml</path>
+	<offsets>
+		<x-m>-0.00723705</x-m>
+		<y-m> 0.0520597</y-m>
+		<z-m>0.0543576</z-m>
+	</offsets>
+</model>
+
+<model>
+	<name>ASI</name>
+	<path>Aircraft/A330-300/Models/Cockpit/Instruments/HSI_Rod/clingow/clingow.xml</path>
+	<offsets>
+		<x-m> 0.0000</x-m>
+		<y-m> 0.0000</y-m>
+		<z-m> 0.0000</z-m>
+	</offsets>
+</model>
+
+ 
+</PropertyList>
+
+
