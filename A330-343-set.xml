@@ -77,7 +77,7 @@
 
 		<!-- Definição do Painel 2D da Aeronave -->
 		<panel>
-			<path>Aircraft/737-300/Panels/737-ifr-panel.xml</path>
+			<path>Aircraft/A330-300/Models/Panels/A330-330-ifr-panel.xml</path>
 			<visibility>true</visibility>
 		</panel>
 		
