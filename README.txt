@@ -1,3 +1,4 @@
+<pre>
                                  |                                             
                                  |                                             
                                  |                                             
@@ -9,8 +10,9 @@
   `-----------|------|--------\_____/--------|------|-----------'              
              ( )    ( )     O|OOo|oOO|O     ( )    ( )                         
                                                                                
- P R E S T E S  H A N G A R  -- http://presteshangar.wikidot.com  --  2009-2010
---------------------------------------------------------------------------------
+</pre>
+
+**P R E S T E S  H A N G A R  -- http://presteshangar.wikidot.com  -- :copyright: 2009-2010 **
 
 LICENSE
 =======
@@ -62,14 +64,13 @@ INSTALATION
 
 Unpack this .zip file using TUGZip in FlightGear_base_directory\Data\Aircraft
 
-
 Best regards,
 
 Prestes Hangar
 
---------------------------------------------------------------------------------
+
 PORTUGUÊS - BRASIL
---------------------------------------------------------------------------------
+---------------------
 
 LICENÇA
 =======
@@ -125,8 +126,4 @@ Meus cumprimentos, bons voos,
 
 Prestes Hangar
 
-
---------------------------------------------------------------------------------
- P R E S T E S  H A N G A R  -- http://presteshangar.blogspot.com  --  2009-2010
- 
---------------------------------------------------------------------------------
+** P R E S T E S  H A N G A R  -- http://presteshangar.blogspot.com  -- :copyright: 2009-2010**
