@@ -17,7 +17,7 @@
 
 <model>
 	<name>ADF</name>
-	<path>Aircraft/A330-300/Models/Cockpit/Instruments/HSI_Rod/adf/adf.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Cockpit/Instruments/HSI_Rod/adf/adf.xml</path>
 	<offsets>
 		<x-m>0.0015095</x-m>
 		<y-m> 0.0539613</y-m>
@@ -27,7 +27,7 @@
 
 <model>
 	<name>VOR</name>
-	<path>Aircraft/A330-300/Models/Cockpit/Instruments/HSI_Rod/vor/vor.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Cockpit/Instruments/HSI_Rod/vor/vor.xml</path>
 	<offsets>
 		<x-m>-0.000523241</x-m>
 		<y-m>-0.0443977</y-m>
@@ -37,7 +37,7 @@
 
 <model>
 	<name>VOR</name>
-	<path>Aircraft/A330-300/Models/Cockpit/Instruments/HSI_Rod/vor/vor2.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Cockpit/Instruments/HSI_Rod/vor/vor2.xml</path>
 	<offsets>
 		<x-m>-0.000523241</x-m>
 		<y-m>-0.0443977</y-m>
@@ -47,7 +47,7 @@
 
 <model>
 	<name>ASI</name>
-	<path>Aircraft/A330-300/Models/Cockpit/Instruments/HSI_Rod/asi/asi.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Cockpit/Instruments/HSI_Rod/asi/asi.xml</path>
 	<offsets>
 		<x-m>-0.00723705</x-m>
 		<y-m> 0.0520597</y-m>
@@ -57,7 +57,7 @@
 
 <model>
 	<name>ASI</name>
-	<path>Aircraft/A330-300/Models/Cockpit/Instruments/HSI_Rod/clingow/clingow.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Cockpit/Instruments/HSI_Rod/clingow/clingow.xml</path>
 	<offsets>
 		<x-m> 0.0000</x-m>
 		<y-m> 0.0000</y-m>

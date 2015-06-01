@@ -48,41 +48,41 @@
 		<!-- Definicoes dos sistemas -->
 		<systems>
 			<autopilot>
-				<path>Aircraft/A330-300/Systems/autopilot.xml</path>
+				<path>Aircraft/A330-300-Prestes/Systems/autopilot.xml</path>
 			</autopilot>
 			<electrical>
-				<path>Aircraft/A330-300/Systems/electrical.xml</path>
+				<path>Aircraft/A330-300-Prestes/Systems/electrical.xml</path>
 			</electrical>
 			<system>
-				<path>Aircraft/A330-300/Systems/generic-systems.xml</path>
+				<path>Aircraft/A330-300-Prestes/Systems/generic-systems.xml</path>
 			</system>
 		</systems>
 		
 		<!-- Definicoes para a instrumentacao da aeronave -->
 		<instrumentation>
- 			<path>Aircraft/A330-300/Systems/instrumentation.xml</path>
+ 			<path>Aircraft/A330-300-Prestes/Systems/instrumentation.xml</path>
 		</instrumentation>
 
 		<!-- Definicoes para som da aeronave -->
 		<sound>
 			<audible>true</audible>
-			<path>Aircraft/A330-300/Sounds/sound.xml</path>
+			<path>Aircraft/A330-300-Prestes/Sounds/sound.xml</path>
 		</sound>
 
 		<!-- Definicoes para splash screen -->
 		<startup>
-			<splash-texture>Aircraft/A330-300/splash.png</splash-texture>
+			<splash-texture>Aircraft/A330-300-Prestes/splash.png</splash-texture>
 		</startup>
 
 		<!-- Definição do Painel 2D da Aeronave -->
 		<panel>
-			<path>Aircraft/A330-300/Models/Panels/A330-330-ifr-panel.xml</path>
+			<path>Aircraft/A330-300-Prestes/Models/Panels/A330-330-ifr-panel.xml</path>
 			<visibility>true</visibility>
 		</panel>
 		
 		<!-- modificações para funcionamento dos liveries - http://wiki.flightgear.org/index.php/Livery_over_MP -->
 		<model>
-			<path>Aircraft/A330-300/Models/A330-300.xml</path>
+			<path>Aircraft/A330-300-Prestes/Models/A330-300.xml</path>
 			<livery>
 				<file type="string">Default</file>
 			</livery>
@@ -243,7 +243,7 @@
 
 		<submodels>
 			<serviceable type="bool">true</serviceable>
-			<path>Aircraft/A330-300/submodels.xml</path>
+			<path>Aircraft/A330-300-Prestes/submodels.xml</path>
 		</submodels>	
 
 	    
@@ -299,7 +299,7 @@
 						<binding>
 							<command>nasal</command>
 							<script>
-							  var dlg = gui.Dialog.new("/sim/gui/dialogs/lights-config/dialog", "Aircraft/A330-300/Dialogs/lights-dialog.xml");
+							  var dlg = gui.Dialog.new("/sim/gui/dialogs/lights-config/dialog", "Aircraft/A330-300-Prestes/Dialogs/lights-dialog.xml");
 				       </script>
 						</binding>
 						<binding>
@@ -312,7 +312,7 @@
 						<binding>
 							<command>nasal</command>
 							<script>
-							  var dlg = gui.Dialog.new("/sim/gui/dialogs/engines-config/dialog", "Aircraft/A330-300/Dialogs/engines-dialog.xml");
+							  var dlg = gui.Dialog.new("/sim/gui/dialogs/engines-config/dialog", "Aircraft/A330-300-Prestes/Dialogs/engines-dialog.xml");
 				       </script>
 						</binding>
 						<binding>
@@ -325,7 +325,7 @@
 						<binding>
 							<command>nasal</command>
 							<script>
-							  var dlg = gui.Dialog.new("/sim/gui/dialogs/message-config/dialog", "Aircraft/A330-300/Dialogs/message-dialog.xml");
+							  var dlg = gui.Dialog.new("/sim/gui/dialogs/message-config/dialog", "Aircraft/A330-300-Prestes/Dialogs/message-dialog.xml");
 				       </script>
 						</binding>
 						<binding>
@@ -338,7 +338,7 @@
 						<binding>
 							<command>nasal</command>
 							<script>
-							  var dlg = gui.Dialog.new("/sim/gui/dialogs/effects-config/dialog", "Aircraft/A330-300/Dialogs/effects-dialog.xml");
+							  var dlg = gui.Dialog.new("/sim/gui/dialogs/effects-config/dialog", "Aircraft/A330-300-Prestes/Dialogs/effects-dialog.xml");
 				       </script>
 						</binding>
 						<binding>
@@ -351,7 +351,7 @@
 						<binding>
 							<command>nasal</command>
 							<script>
-							  var dlg = gui.Dialog.new("/sim/gui/dialogs/pushback-config/dialog", "Aircraft/A330-300/Dialogs/pushback.xml");
+							  var dlg = gui.Dialog.new("/sim/gui/dialogs/pushback-config/dialog", "Aircraft/A330-300-Prestes/Dialogs/pushback.xml");
 				       </script>
 						</binding>
 						<binding>
@@ -484,28 +484,28 @@
 	<!-- Codigos NASAL -->
 	<nasal>
 	    <livery>
-	        <file>Aircraft/A330-300/Nasal/livery.nas</file>
+	        <file>Aircraft/A330-300-Prestes/Nasal/livery.nas</file>
 	    </livery>
 		<tyresmoke>
-			<file>Aircraft/A330-300/Nasal/tyresmoke.nas</file>
+			<file>Aircraft/A330-300-Prestes/Nasal/tyresmoke.nas</file>
 		</tyresmoke>
 		<reversethrust>
-			<file>Aircraft/A330-300/Nasal/reverse-thrust.nas</file>
+			<file>Aircraft/A330-300-Prestes/Nasal/reverse-thrust.nas</file>
 		</reversethrust>
 		<general>
-			<file>Aircraft/A330-300/Nasal/general.nas</file>
+			<file>Aircraft/A330-300-Prestes/Nasal/general.nas</file>
 		</general>
 		<lights>
-			<file>Aircraft/A330-300/Nasal/lights.nas</file>
+			<file>Aircraft/A330-300-Prestes/Nasal/lights.nas</file>
 		</lights>
 		<groundservice>
-			<file>Aircraft/A330-300/Nasal/groundservice.nas</file>
+			<file>Aircraft/A330-300-Prestes/Nasal/groundservice.nas</file>
 		</groundservice>
 		<messagesys>
-			<file>Aircraft/A330-300/Nasal/messagesys.nas</file>
+			<file>Aircraft/A330-300-Prestes/Nasal/messagesys.nas</file>
 		</messagesys>
 		<effects>
-			<file>Aircraft/A330-300/Nasal/effects.nas</file>
+			<file>Aircraft/A330-300-Prestes/Nasal/effects.nas</file>
 		</effects>	
 		
 	</nasal>

@@ -16,7 +16,7 @@
 	<!-- Livery System -->
     <nasal>
         <load>
-            var livery_update = aircraft.livery_update.new("Aircraft/A330-300/Models/Liveries", 10);
+            var livery_update = aircraft.livery_update.new("Aircraft/A330-300-Prestes/Models/Liveries", 10);
         </load>
 
         <unload>
@@ -151,7 +151,7 @@
 <!-- Adiciona o cockpit -->
 <model>
 	<name>Cockpit</name>
-	<path>Aircraft/A330-300/Models/Cockpit/cockpit.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Cockpit/cockpit.xml</path>
 	<offsets>
 		<x-m>0.0</x-m>
 		<y-m>0.0</y-m>
@@ -177,7 +177,7 @@
 
 <!-- Vortex -->
 <model>
-	<path>Aircraft/A330-300/Models/Effects/vortex.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Effects/vortex.xml</path>
 	<offsets>
 		<x-m> 10.2911</x-m>
 		<y-m>-29.7532</y-m>
@@ -185,7 +185,7 @@
 	</offsets>
 </model>
 <model>
-	<path>Aircraft/A330-300/Models/Effects/vortex.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Effects/vortex.xml</path>
 	<offsets>
 		<x-m> 10.2911</x-m>
 		<y-m> 29.7532</y-m>
@@ -195,7 +195,7 @@
 
 <!-- Contrails -->
 <model>
-	<path>Aircraft/A330-300/Models/Effects/contrail1.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Effects/contrail1.xml</path>
 	<offsets>
 		<x-m>12.6779</x-m>
 		<y-m>-8.82029</y-m>
@@ -203,7 +203,7 @@
 	</offsets>
 </model>
 <model>
-	<path>Aircraft/A330-300/Models/Effects/contrail2.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Effects/contrail2.xml</path>
 	<offsets>
 		<x-m>12.6779</x-m>
 		<y-m>8.82029</y-m>
@@ -213,7 +213,7 @@
 
 <!-- Condensation -->
 <model>
-	<path>Aircraft/A330-300/Models/Effects/condensation-left.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Effects/condensation-left.xml</path>
 	<offsets>
 		<x-m> 10.2911</x-m>
 		<y-m>-29.7532</y-m>
@@ -221,7 +221,7 @@
 	</offsets>
 </model>
 <model>
-	<path>Aircraft/A330-300/Models/Effects/condensation-right.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Effects/condensation-right.xml</path>
 	<offsets>
 		<x-m> 10.2911</x-m>
 		<y-m> 29.7532</y-m>
@@ -237,7 +237,7 @@
 
 <!-- Navegação fuselagem porta traseira -->
 <model>
-	<path>Aircraft/A330-300/Models/Effects/Lights/beacon.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Effects/Lights/beacon.xml</path>
 	<offsets>
 		<x-m>-5.76894</x-m>
 		<y-m>0.0</y-m>
@@ -246,7 +246,7 @@
 </model>
 
 <model>
-	<path>Aircraft/A330-300/Models/Effects/Lights/beacon.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Effects/Lights/beacon.xml</path>
 	<offsets>
 		<x-m>-10.9746</x-m>
 		<y-m>0.0</y-m>
@@ -256,7 +256,7 @@
 
 <!-- Asa esquerda -->
 <model>
-	<path>Aircraft/A330-300/Models/Effects/Lights/RedLight.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Effects/Lights/RedLight.xml</path>
 	<offsets>
 		<x-m>6.24781</x-m>
 		<y-m>-28.4222</y-m>
@@ -266,7 +266,7 @@
 
 <!-- Asa direita -->
 <model>
-	<path>Aircraft/A330-300/Models/Effects/Lights/GreenLight.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Effects/Lights/GreenLight.xml</path>
 	<offsets>
 		<x-m> 6.24781</x-m>
 		<y-m>28.4222</y-m>
@@ -276,7 +276,7 @@
 
 <!-- Strobes -->
 <model>
-	<path>Aircraft/A330-300/Models/Effects/Lights/StrobeWhite.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Effects/Lights/StrobeWhite.xml</path>
 	<offsets>
 		<x-m> 9.34663</x-m>
 		<y-m>-28.4222</y-m>
@@ -285,7 +285,7 @@
 </model>
 
 <model>
-	<path>Aircraft/A330-300/Models/Effects/Lights/StrobeWhite.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Effects/Lights/StrobeWhite.xml</path>
 	<offsets>
 		<x-m> 9.34663</x-m>
 		<y-m>28.4222</y-m>
@@ -295,7 +295,7 @@
 
 <!-- Fim fuselagem -->
 <model>
-	<path>Aircraft/A330-300/Models/Effects/Lights/WhiteLight.xml</path>
+	<path>Aircraft/A330-300-Prestes/Models/Effects/Lights/WhiteLight.xml</path>
 	<offsets>
 		<x-m>28.8366</x-m>
 		<y-m>0.0</y-m>

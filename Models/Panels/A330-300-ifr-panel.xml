@@ -229,7 +229,7 @@ IH-COL, May 2015
     </instrument>
   </instruments>
 
-  <background>Aircraft/A330-300/Models/Panels/A330-300.png</background> 
+  <background>Aircraft/A330-300-Prestes/Models/Panels/A330-300.png</background> 
   <w>1750</w>
   <h>850</h>
   <y-offset>50</y-offset>

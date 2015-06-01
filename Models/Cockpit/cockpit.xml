@@ -57,7 +57,7 @@
 	-->
  
  <model>
-  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-pfd-jw.xml</path>
+  <path>Aircraft/A330-300-Prestes/Models/Cockpit/Instruments/boeing747-400-pfd-jw.xml</path>
   <offsets>
    <x-m>-30.3184</x-m>
    <y-m>-0.59</y-m>
@@ -67,7 +67,7 @@
  </model>
 
  <model>
-  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-enav-jw.xml</path>
+  <path>Aircraft/A330-300-Prestes/Models/Cockpit/Instruments/boeing747-400-enav-jw.xml</path>
   <offsets>
    <x-m>-30.3184</x-m>
    <y-m>-0.36</y-m>
@@ -77,7 +77,7 @@
  </model>
 
  <model>
-  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-enav-jw.xml</path>
+  <path>Aircraft/A330-300-Prestes/Models/Cockpit/Instruments/boeing747-400-enav-jw.xml</path>
   <offsets>
    <x-m>-30.3184</x-m>
    <y-m>+0.36</y-m>
@@ -87,7 +87,7 @@
  </model>
  
  <model>
-  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-pfd-jw.xml</path>
+  <path>Aircraft/A330-300-Prestes/Models/Cockpit/Instruments/boeing747-400-pfd-jw.xml</path>
   <offsets>
    <x-m>-30.3184</x-m>
    <y-m>+0.59</y-m>
@@ -97,7 +97,7 @@
  </model>
 
  <model>
-  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-ai-jw.xml</path>
+  <path>Aircraft/A330-300-Prestes/Models/Cockpit/Instruments/boeing747-400-ai-jw.xml</path>
   <offsets>
    <x-m>-30.3014</x-m>
    <y-m>-0.11</y-m>
@@ -107,7 +107,7 @@
  </model>
 
  <model>
-  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-asi-jw.xml</path>
+  <path>Aircraft/A330-300-Prestes/Models/Cockpit/Instruments/boeing747-400-asi-jw.xml</path>
   <offsets>
    <x-m>-30.3334</x-m>
    <y-m>-0.19</y-m>
@@ -117,7 +117,7 @@
  </model>
 
  <model>
-  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-alt-jw.xml</path>
+  <path>Aircraft/A330-300-Prestes/Models/Cockpit/Instruments/boeing747-400-alt-jw.xml</path>
   <offsets>
    <x-m>-30.3334</x-m>
    <y-m>-0.09</y-m>
@@ -127,7 +127,7 @@
  </model>
 
  <model>
-  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-mcp-jw.xml</path>
+  <path>Aircraft/A330-300-Prestes/Models/Cockpit/Instruments/boeing747-400-mcp-jw.xml</path>
   <offsets>
    <x-m>-29.9984</x-m>
    <y-m>-0.015</y-m>
@@ -137,7 +137,7 @@
  </model>
 
  <model>
-  <path>Aircraft/A330-300/Models/Cockpit/Instruments/boeing747-400-efisp-jw.xml</path>
+  <path>Aircraft/A330-300-Prestes/Models/Cockpit/Instruments/boeing747-400-efisp-jw.xml</path>
   <offsets>
    <x-m> -30.0063</x-m>
    <y-m>-0.28</y-m>
@@ -148,7 +148,7 @@
 
 <!-- HSI
  <model>
-  <path>Aircraft/A330-300/Models/Cockpit/Instruments/HSI_Rod/HSI_Rod.xml</path>
+  <path>Aircraft/A330-300-Prestes/Models/Cockpit/Instruments/HSI_Rod/HSI_Rod.xml</path>
   <offsets>
    <x-m>-30.0063</x-m>
    <y-m>0</y-m>
