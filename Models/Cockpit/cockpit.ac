@@ -554,7 +554,7 @@ name "Plane"
 loc -0.352242 0.00919914 -0.0229125
 data 9
 Plane.109
-texture "C:/Program Files/FlightGear/data/Aircraft/A320/Models/A320-TAM.png"
+texture "Aircraft/A320/Models/A320-TAM.png"
 crease 30.000000
 numvert 12
 -16.9309 -2.6946 0.401532
@@ -639,7 +639,7 @@ name "Circle.001"
 loc -0.303634 0.00680828 0.000243617
 data 10
 Circle.016
-texture "C:/Program Files/FlightGear/data/Aircraft/A320/Models/A320-TAM.png"
+texture "Aircraft/A320/Models/A320-TAM.png"
 crease 30.000000
 numvert 128
 -16.752 -2.32245 0.085
@@ -6009,7 +6009,7 @@ name "Plane.002"
 loc -0.352265 0.00802517 0.0231021
 data 9
 Plane.111
-texture "C:/Program Files/FlightGear/data/Aircraft/A320/Models/A320-TAM.png"
+texture "Aircraft/A320/Models/A320-TAM.png"
 crease 30.000000
 numvert 4
 -17.1909 -2.4346 -0.579461
@@ -6030,7 +6030,7 @@ name "Plane.003"
 loc -0.352242 0.00616074 0.0233923
 data 9
 Plane.112
-texture "C:/Program Files/FlightGear/data/Aircraft/A320/Models/A320-TAM.png"
+texture "Aircraft/A320/Models/A320-TAM.png"
 crease 30.000000
 numvert 12
 -16.9309 -2.6946 -0.579461
@@ -6115,7 +6115,7 @@ name "Plane.001"
 loc -0.352242 0.00919914 -0.0229125
 data 9
 Plane.110
-texture "C:/Program Files/FlightGear/data/Aircraft/A320/Models/A320-TAM.png"
+texture "Aircraft/A320/Models/A320-TAM.png"
 crease 30.000000
 numvert 4
 -17.1909 -2.4346 0.401532
@@ -7209,7 +7209,7 @@ kids 0
 OBJECT poly
 name "object"
 loc -34.4486 5.81712 -0.0018838
-texture "C:/Program Files/FlightGear/data/Aircraft/A320/Models/A320-TAM.png"
+texture "Aircraft/A320/Models/A320-TAM.png"
 crease 45.000000
 numvert 90
 5.27088 0.875826 1.04433
@@ -8122,7 +8122,7 @@ kids 0
 OBJECT poly
 name "object"
 loc -34.4486 5.81712 -0.0018838
-texture "C:/Program Files/FlightGear/data/Aircraft/A320/Models/A320-TAM.png"
+texture "Aircraft/A320/Models/A320-TAM.png"
 crease 45.000000
 numvert 90
 4.54243 0.518878 -0.973201
