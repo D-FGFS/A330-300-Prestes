@@ -6,7 +6,7 @@ OBJECT world
 kids 11
 OBJECT poly
 name "Face"
-texture "/usr/local/FlightGear-0.9/data/Aircraft/Instruments-3d/vor/vor02.rgb"
+texture "vor02.png"
 crease 45.000000
 numvert 6
 -0.004518 0.04 -0.04
@@ -33,7 +33,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Front"
-texture "/usr/local/FlightGear-0.9/data/Aircraft/Instruments-3d/vor/vor03.rgb"
+texture "vor03.png"
 crease 45.000000
 numvert 6
 0 0.04 -0.04
@@ -60,7 +60,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Ring"
-texture "/usr/local/FlightGear-0.9/data/Aircraft/Instruments-3d/vor/vor01.rgb"
+texture "vor01.png"
 crease 45.000000
 numvert 6
 -0.001596 0.04 -0.04
@@ -140,7 +140,7 @@ kids 0
 OBJECT poly
 name "TO"
 loc -0.00674026 0.0040441 -0.0124104
-texture "/usr/local/FlightGear-0.9/data/Aircraft/Instruments-3d/vor/TO-FR.rgb"
+texture "TO-FR.png"
 crease 45.000000
 numvert 4
 0 -0.00271994 -0.00739644
@@ -159,7 +159,7 @@ kids 0
 OBJECT poly
 name "NAV"
 loc -0.0063754 0.0042357 -0.0122067
-texture "/usr/local/FlightGear-0.9/data/Aircraft/Instruments-3d/vor/TO-FR.rgb"
+texture "TO-FR.png"
 crease 45.000000
 numvert 4
 0 0.00239354 -0.00417537
@@ -178,7 +178,7 @@ kids 0
 OBJECT poly
 name "FR"
 loc -0.00589943 0.00404461 -0.0128874
-texture "/usr/local/FlightGear-0.9/data/Aircraft/Instruments-3d/vor/TO-FR.rgb"
+texture "TO-FR.png"
 crease 45.000000
 numvert 4
 0 -0.00299626 -0.00718548
@@ -197,7 +197,7 @@ kids 0
 OBJECT poly
 name "disk"
 loc 0 -0.0292413 0.0272215
-texture "/usr/local/FlightGear-0.9/data/Aircraft/Instruments-3d/vor/knob.rgb"
+texture "knob.png"
 crease 101.000000
 numvert 20
 0.01 0.00396059 0.00479285
