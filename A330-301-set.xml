@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<xml version="1.0">
 
 <!-- 
 	Prestes Hangar Aircraft Model
@@ -74,14 +74,14 @@
 			<splash-texture>Aircraft/A330-300-Prestes/splash.png</splash-texture>
 		</startup>
 
-		<!-- Definição do Painel 2D da Aeronave
+		<!-- DefiniÃ§Ã£o do Painel 2D da Aeronave
 		<panel>
 			<path>Aircraft/A330-300-Prestes/Models/Panels/A330-330-ifr-panel.xml</path>
 			<visibility>true</visibility>
 		</panel>
 		 -->
 		 
-		<!-- modificações para funcionamento dos liveries - http://wiki.flightgear.org/index.php/Livery_over_MP -->
+		<!-- modificaÃ§Ãµes para funcionamento dos liveries - http://wiki.flightgear.org/index.php/Livery_over_MP -->
 		<model>
 			<path>Aircraft/A330-300-Prestes/Models/A330-300.xml</path>
 			<livery>
@@ -511,7 +511,7 @@
 		
 	</nasal>
 
-	<!-- Ajustes da Instrumentação -->
+	<!-- Ajustes da InstrumentaÃ§Ã£o -->
 	<instrumentation>
 		<mk-viii>
 			<serviceable>true</serviceable>
