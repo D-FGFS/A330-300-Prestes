@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0">
 <PropertyList>
 
  <!-- Define o modelo 3d da aeronave -->
@@ -235,7 +235,7 @@
 <!-- ## Luzes ## -->
 <!-- ########### -->
 
-<!-- Navegação fuselagem porta traseira -->
+<!-- NavegaÃ§Ã£o fuselagem porta traseira -->
 <model>
 	<path>Aircraft/A330-300-Prestes/Models/Effects/Lights/beacon.xml</path>
 	<offsets>
